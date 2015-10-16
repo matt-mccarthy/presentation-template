@@ -35,8 +35,8 @@ Note that all of the following must be inside math mode.
 | Environment | Counter    |
 |:----------- |:---------- |
 | thm         | thm        |
-| corollary   | thm        |
-| lemma       | thm        |
-| example     | thm        |
-| definition  | definition |
+| cor         | thm        |
+| lem         | thm        |
+| exmp        | thm        |
+| defn        | defn       |
 
