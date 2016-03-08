@@ -1,4 +1,4 @@
-# assignment-template
+# presentation-template
 
 This is a simple template and document class made simplify the creation of presentations.
 This template is tailored towards math-heavy presentations.
